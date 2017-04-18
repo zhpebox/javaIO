@@ -1,0 +1,6 @@
+readme!
+
+文件读写几种常用的方法
+1. 字节读写（InputStream/OutputStream）
+2. 字符读取（FileReader/FileWriter）
+3. 行读取（BufferedReader/BufferedWriter）
